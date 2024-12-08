@@ -1,0 +1,30 @@
+body {
+  padding: 50px 100px;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+#container {
+  text-align: center;
+  background-color: rgb(48, 173, 108);
+  padding: 50px;
+}
+
+.input-div {
+  display: inline-block;
+}
+.inp {
+  padding: 5px 10px;
+  margin: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+label {
+  font-size: 22px;
+  color: rgb(227, 238, 227);
+}
